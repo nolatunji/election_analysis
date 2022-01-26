@@ -49,5 +49,8 @@ The county election summary is a follows and and shows that Denver was the count
 -----------------------
 - Arapahoe :6.7%:(24,801)
 
-
+Future Use
+  The current analysis performed for the Colorado Election Board can be used to analyze future elections. 
+- One example of how this anaylyis may be used for future analysis is by determining the amount of votes each candidate received within each county. This can be performed by adding a for loop that counts the number of votes a candidate received in each county  
+- The current analysis can also be used to determine the margin of victory between the winning candidate and the other candidates. 
 
