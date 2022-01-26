@@ -43,11 +43,11 @@ Based on the additional analysis of the election data it was determined that the
 
 The county election summary is a follows and and shows that Denver was the county that had the highest turnout for this election with 82% of the total votes and a total of 305,055 votes. 
 
-Jefferson :10.5%:(38,855)
+ - Jefferson :10.5%:(38,855)
 -----------------------
-Denver :82.8%:(306,055)
+ - Denver :82.8%:(306,055)
 -----------------------
-Arapahoe :6.7%:(24,801)
+- Arapahoe :6.7%:(24,801)
 
 
 
