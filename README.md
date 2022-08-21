@@ -1,4 +1,9 @@
-#election_analysis
+# Colorado Election Analysis
+
+## Tools
+* Excel VBA
+* Python
+* Visual Studio Code
 
 ## Project Overview 
 The Colorado Board of Elections has given us the task of completing an election audit of a local congressional election with the following tasks.
